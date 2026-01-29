@@ -6,6 +6,7 @@ User can see their dailysummary like total activity,total activity minutes, domi
 
 tech stack : NodeJS,Express,React,MongoDB,Mongoose
 
+install packages using "npm install" for both backend and frontend
 please change MONGO_URI in dotenv or change URL in database file
 use : git clone https://github.com/ShreyLukka/Smart-activity-tracker.git
 run backend using : nodemon server.js
